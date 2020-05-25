@@ -29,10 +29,12 @@ campesinos, se asumió el control estatal del agua y otras medidas a favor de la
 ## Antecedentes
 
 * Similitud
+	  
 	  Situaciones deficitarias sin poder cubrir la demandad de alimentos proveniente de los centros urbanos.
 
 * Perú
-          Agudización de las contradicciones en el campo.
+          
+	  Agudización de las contradicciones en el campo.
           Emergen focos de guerrilla. 1962
           Crisis de las fuerzas productivas agrarias.
           Incapacidad de absorber la fuerza de trabajo.
@@ -40,7 +42,8 @@ campesinos, se asumió el control estatal del agua y otras medidas a favor de la
           Res-quebramiento del orden oligárquico.
 
 * Chile
-          Modernización de la faenas en la hacienda.
+          
+	  Modernización de la faenas en la hacienda.
           Disminución de fuerza de trabajo humana por mecánica.
           Democratización de sistema político.
 
